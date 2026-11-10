@@ -1,0 +1,8 @@
+My Calculator Project
+
+Version 1.0
+
+Addition
+Subtraction
+Multiplication
+Division
